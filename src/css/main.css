@@ -1,0 +1,15 @@
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    list-style-type: none;
+    background-color: #eee;
+    font-size: 20px;
+    padding: 14px 10px 14px 40px;
+}
+
+li:nth-child(odd){
+    background-color: #f9f9f9;
+}
